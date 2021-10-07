@@ -4,5 +4,7 @@ logging the data in a way that plays nicely with prometheus works
 better than just logging min/mean/max/std/loss
 
 pipenv install --dev
+ 
  - or -
+
 docker build -t ping-exporter .
